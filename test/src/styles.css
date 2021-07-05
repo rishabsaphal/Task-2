@@ -1,0 +1,52 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family:  "Montserrat", sans-serif; }
+
+.mat-toolbar {
+    background: #19B38D;
+    color: #E2E7EA;
+ }
+
+ .mat-flat-button{
+    height:35px !important;
+    width:110px !important;
+    border:1px !important;
+    border-style: solid !important;
+    border-color: #19B38D !important;
+}
+
+.mat-raised-button{
+    height:35px !important;
+    width:110px !important;
+}
+
+.nav-items-login li {
+    list-style: none;
+    margin-right: -25px;
+}
+.nav-items-register li {
+    list-style: none;
+    margin-right:5px;
+}
+
+.nav-items-login li a{
+    color:#19B38D;
+    font-family: "Montserrat",sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+
+    background: #ffffff ;
+    border-radius: 3px;
+}
+.nav-items-register li a{
+    color:#ffffff;
+    font-family: "Montserrat",sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+
+    background: #007659 ;
+    border-radius: 3px;
+}
+
+

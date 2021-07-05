@@ -1,0 +1,22 @@
+.spacer {
+    flex: 1 1 auto
+}
+
+.footer {
+    font-family: "Montserrat",sans-serif;
+    position: absolute;
+    height: 120px;
+    width: 100%;
+    
+    background: #646B71;
+    color: white;
+}
+
+.social-media {
+display: block;
+  justify-content: space-between;
+}
+
+.social-media img {
+    padding: 5px;
+}
